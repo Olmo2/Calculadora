@@ -1,6 +1,6 @@
 package com.olmo.inicio;
 
-public class Operacion {
+public class Calculadora {
 
 	public Float Suma(Float num1, Float num2) {
 
